@@ -11,7 +11,7 @@ h1, h2, p {
     color: white;
     text-align: center;
 }
-h2 {
+h2, h3 {
 	color: white;
 	font-family: Helvetica;
 	font-weight: bold;
@@ -20,6 +20,7 @@ h2 {
 
 h3 a {
     color:white;
+
 }
 input {
 align-content: center;
@@ -41,7 +42,7 @@ align-content: center;
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(file:///C:/Users/Drewett_R/Desktop/drewett.github.io/drewett.github.io/Unit_3/images/f8a9acd9e7e1820fae5e772575d66c5da536bbb2-shutterstock_626842010.JPG);
+    background-image: url(file:///C:/Users/Drewett_R/Desktop/drewett.github.io/drewett.github.io/Unit_3/images/f8a9acd9e7e1820fae5e772575d66c5da536bbb2-shutterstock_626842010.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 120vw;
@@ -75,8 +76,6 @@ align-content: center;
 img {
 	max-width: 100vw;
 	max-height: 50vh;
-
-
 	
 }
 
