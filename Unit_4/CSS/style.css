@@ -3,6 +3,8 @@
 body {
     background-color: pink;
     font-family: 'Questrial', sans-serif;
+    align-content: center;
+    text-align: center;
  
 }
 h1 {
@@ -12,7 +14,7 @@ h1 {
 h1, h2, p {
     color: white;
     text-align: center;
-    
+
 }
 h2, h3 {
 	color: white;
@@ -45,7 +47,7 @@ align-content: center;
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(file:///C:/Users/Drewett_R/Desktop/drewett.github.io/drewett.github.io/Unit_3/images/f8a9acd9e7e1820fae5e772575d66c5da536bbb2-shutterstock_626842010.jpg);
+    background-image: url(file:///C:/Users/Drewett_R/Desktop/drewett.github.io/drewett.github.io/Unit_4/images/f8a9acd9e7e1820fae5e772575d66c5da536bbb2-shutterstock_626842010.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 120vw;
